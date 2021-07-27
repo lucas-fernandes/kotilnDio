@@ -8,7 +8,7 @@ class Pessoa {
 
     constructor()
 
-    fun pessoaInfo() = "Nome: $nome e CPF: $cpf"
+    fun pessoaInfo() = "Nome: $nome, CPF: $cpf"
 
     /** Classe interna
         inner class Endereco{
